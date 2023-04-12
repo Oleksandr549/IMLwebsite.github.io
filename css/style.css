@@ -654,7 +654,7 @@ i {
   position: fixed;
   width: 100%;
   background: linear-gradient(35deg, hsla(109deg, 50%, 28%, 0.9), hsla(109deg, 52%, 43%, 0.9));
-  padding: 15px 0;
+  
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
   z-index: 50;
   font-family: Ubuntu;
@@ -665,7 +665,7 @@ i {
 }
 .header._header-scroll {
   transition: all 0.3s ease 0s;
-  padding: 0px 0;
+  
   position: fixed;
 }
 .header._header-scroll .nav-box {
