@@ -693,7 +693,7 @@ i {
   cursor: pointer;
   padding: 0 25px 0 0;
   width: 100%;
-  max-width: 200px;
+  max-width: 160px;
 }
 .nav-logo img {
   width: 100%;
@@ -1046,7 +1046,7 @@ i {
   opacity: 1;
 }
 .home_text p {
-  padding: 15px 0;
+  
   text-align: start;
   transition: ease-out 0.5s;
 }
